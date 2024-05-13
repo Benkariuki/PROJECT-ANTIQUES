@@ -1,0 +1,16 @@
+package com.example.TAntiques.navigation
+
+const val HOME_URL = "home"
+const val SIGNUP_URL = "signup"
+const val LOGIN_URL = "login"
+const val ADD_PRODUCTS_URL = "add_products"
+const val VIEW_PRODUCTS_URL = "view_products"
+const val SPLASHSCREEN_URL = "splashscreen"
+const val CLOTHINGviewSCREEN_URL = "clothingviewscreen"
+const val CLOTHINGaddSCREEN_URL = "clothingaddscreen"
+const val FURNITUREviewSCREEN_URL = "furnitureviewscreen"
+const val FURNITUREaddSCREEN_URL = "furnitureaddscreen"
+const val WATCHviewSCREEN_URL = "watchviewscreen"
+const val WATCHaddSCREEN_URL = "watchaddscreen"
+const val VEHICLEviewSCREEN_URL = "vehicleviewscreen"
+const val VEHICLEaddSCREEN_URL = "vehicleaddscreen"

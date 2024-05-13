@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "483241607089",
+    "firebase_url": "https://wazito-ecommerce-default-rtdb.firebaseio.com",
+    "project_id": "wazito-ecommerce",
+    "storage_bucket": "wazito-ecommerce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483241607089:android:0376d8a181cc5c884b0790",
+        "android_client_info": {
+          "package_name": "com.example.TAntiques"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6_pqa6P574RhG2_Gecf8HNoEJ9chlnKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
